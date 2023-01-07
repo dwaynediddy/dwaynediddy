@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dwayne. Front-end Dev. Love anything ReactJS/NextJS<br><br>Enjoy experimenting with automation in Python.<br><br>Keen for some open source projects! Send me a message on twitter or linkedin
+Dwayne. Front-end Dev. Love anything ReactJS/NextJS, Swift & IOS<br><br>Enjoy experimenting with automation in Python.<br><br>Keen for some open source projects! Send me a message on twitter or linkedin
 
 
 ## 🌐 Socials:
