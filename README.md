@@ -7,6 +7,7 @@ Dwayne. Front-end Dev. Love anything ReactJS/NextJS, Swift & IOS<br><br>Enjoy ex
 
 # 💻 Tech Stack:
 <div>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg](https://tse1.mm.bing.net/th?id=OIP.WafoBJVtOQKSRljQcOcEswAAAA&pid=Api&P=0&h=180)" height="100px" width="100px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="100px" width="100px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="100px" width="100px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="100px" width="100px"/>
